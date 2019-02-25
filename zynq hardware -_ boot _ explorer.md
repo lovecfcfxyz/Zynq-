@@ -185,7 +185,9 @@ bootrom
 
 bootrom头只在flash启动下需要，在JTAG启动下不需要。
 
-[![bootrom_header1.jpg](./zynq hardware -_ boot _ explorer_files/bootrom_header1.jpg)](./zynq hardware -_ boot _ explorer_files/bootrom_header1.jpg) [![bootrom_header2.jpg](./zynq hardware -_ boot _ explorer_files/bootrom_header2.jpg)](./zynq hardware -_ boot _ explorer_files/bootrom_header2.jpg)
+![image] (https://github.com/lovecfcfxyz/Zynq-/tree/master/zynq%20hardware%20-_%20boot%20_%20explorer_files/bootrom_header1.jpg) 
+
+![image] (https://github.com/lovecfcfxyz/Zynq-/tree/master/zynq%20hardware%20-_%20boot%20_%20explorer_files/bootrom_header2.jpg)
 
 #### 中断向量表的存储位置(0x00 ~ 0x1c, 8个4字节)
 
